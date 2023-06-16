@@ -1,0 +1,7 @@
+npm install
+----------------------------------------
+npm install nodemon --save-dev
+
+npm install cookie-parser --save     ///PARA PONER A FUNCIONAR LAS COOKIE
+
+npm start
